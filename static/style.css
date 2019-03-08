@@ -1,0 +1,22 @@
+.maindiv {
+    height: 100vh;
+    background: white;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.bgcolor {
+    background: beige;
+}
+
+p {
+    padding-left:  3%;
+    padding-right: 3%;
+}
+
+.brd {
+    border: 4px double black;
+    background: #fc3;
+    padding: 10px;
+}
